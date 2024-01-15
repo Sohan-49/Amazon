@@ -1,1 +1,1 @@
-# Let's start amazom website
+# Let's start amazon website
